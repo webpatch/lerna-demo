@@ -1,2 +1,2 @@
-const f = require("@zy/cc");
+const f = require("@zy/cc/src");
 f.fuck();
